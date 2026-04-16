@@ -129,6 +129,7 @@ If you're starting your journey like me, I highly recommend **Scrimba's Full Sta
 **Fakhar Alam**
 
 🔗 GitHub: https://github.com/ThisisAlam
+
 🔗 LinkedIn: https://www.linkedin.com/in/fakhar-e-alam-a046133b4/
 
 ---

@@ -21,8 +21,7 @@ btn.addEventListener('click', () => {
             console.log(color)
             btn.style.background = `${color.hex}`
             text.style.color = `${color.hex}`
-            text.style.borderTopColor = `${color.hex}`
-            text.style.borderBottomColor = `${color.hex}`
+            text.style.borderColor = `${color.hex}`
         })
 
 })

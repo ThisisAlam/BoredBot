@@ -1,11 +1,5 @@
-// const div = document.createElement('div')
-// div.innerHTML = 
-//     `<h1>🤖 BoredBot 🤖</h1>
-//     <h2>Find something to do</h2>
-//     <p id="text"></p>
-//     <button id="btn">BoredBot</button>`
 
-// document.body.appendChild(div)
+
 const text = document.getElementById('text')
 const btn = document.getElementById('btn')
 btn.addEventListener('click', () => {
